@@ -1,5 +1,5 @@
 # KNN-prediction-on-bank-loan
 
-This is the course project from my masters' Data Mining Course. 
+This is the project from my master's Data Mining course.
 
 Use KNN to predict the bank loan default risk
